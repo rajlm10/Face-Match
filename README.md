@@ -9,7 +9,7 @@ Here is what face-match can do -
 
 This is a result which shows how face-match has detected my name after finding similarities from my [picture](./known_people/Raj.jpg) in the **known_people** directory
 
-![Live detection](./docs/images/result.jpg) 
+![Live detection](./docs/images/result.png) 
 
 
 
@@ -37,6 +37,8 @@ Please add  ```name.jpg```  images to the known_people directory where **name** 
 ```python
 python3 recognise.py
 ```
+
+**Press Q to quit once the video is running**
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
